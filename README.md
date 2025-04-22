@@ -15,8 +15,7 @@ A GUI-based visualization tool for common CPU scheduling algorithms, combining a
 6. [Running the GUI (Python)](#running-the-gui-python)
 7. [Usage Examples](#usage-examples)
 8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
+9. [Contact](#contact)
 
 ---
 
@@ -64,7 +63,7 @@ A GUI-based visualization tool for common CPU scheduling algorithms, combining a
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/cpu-scheduling-visualizer.git
+   git clone https://github.com/PriyanshuPilkhwal/Scheduling_algorithm_visualizer.git
    cd cpu-scheduling-visualizer
    ```
 
@@ -120,9 +119,6 @@ print(schedule)
 
 Please adhere to the existing coding style and include tests/examples.
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
 
