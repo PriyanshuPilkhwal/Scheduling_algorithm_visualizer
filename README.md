@@ -126,6 +126,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
-Created by [Your Name](https://github.com/yourusername).\
+Created by [Priyanshu_Pilkhwal](https://github.com/PriyanshuPilkhwal).\
 Feel free to open issues or reach out via GitHub.
 
